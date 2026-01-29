@@ -46,3 +46,7 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
+
+
+**Author:**
+Nisarga Vishwamanjuswamy
