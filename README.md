@@ -50,3 +50,4 @@ export default tseslint.config({
 
 **Author:**
 Nisarga Vishwamanjuswamy
+GitHub: https://github.com/Nisarga15
