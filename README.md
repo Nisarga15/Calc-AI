@@ -51,3 +51,6 @@ export default tseslint.config({
 **Author:**
 Nisarga Vishwamanjuswamy
 GitHub: https://github.com/Nisarga15
+
+**📄 Notes**
+This repository is for educational and practice purposes.
